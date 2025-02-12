@@ -1,5 +1,5 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://KislayKashyap-hub.io)
-<h1 align="center">Hi 👋, I'm Kislay Kumar</h1>
+<h1 align="center">Hi 👋, I'm Md Aftab Alam</h1>
 <h3 align="center">▶️ Dedicated Learner Seeking Role in IT - Skilled Back-End Technologies ◀️</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kislaykashyap-hub&label=Profile%20views&color=0e75b6&style=flat" alt="kislaykashyap-hub" /> </p>
@@ -8,13 +8,13 @@
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, Microservices, API, PostgreSQL, SQL, NoSQL and Linux**
 
-- 📫 How to reach me **MdAftabALam55995@gmail.com**
+- 📫 How to reach me **aftab.techiee@gmail.com**
 
 - ⚡ Fun fact **I think, I can sing..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kislay-kumar-kk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kislay-kumar-kk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md--aftab--alam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kislay-kumar-kk" height="30" width="40" /></a>
 <a href="https://instagram.com/kislay.kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kislay.kashyap" height="30" width="40" /></a>
 </p>
 
